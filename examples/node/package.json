@@ -35,7 +35,7 @@
         "passport": "^0.4.1",
         "passport-github2": "^0.1.12",
         "pug": "^3.0.0",
-        "sqlite": "^4.0.10",
+        "sqlite": "^4.0.23",
         "sqlite3": "^4.2.0",
         "winston": "^3.2.1"
     },
