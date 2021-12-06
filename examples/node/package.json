@@ -37,7 +37,7 @@
         "pug": "^3.0.0",
         "sqlite": "^4.0.10",
         "sqlite3": "^4.2.0",
-        "winston": "^3.2.1"
+        "winston": "^3.3.3"
     },
     "devDependencies": {
         "@types/chai": "^4.2.11",
