@@ -34,7 +34,7 @@
         "express-session": "^1.17.1",
         "passport": "^0.4.1",
         "passport-github2": "^0.1.12",
-        "pug": "^3.0.0",
+        "pug": "^3.0.2",
         "sqlite": "^4.0.10",
         "sqlite3": "^4.2.0",
         "winston": "^3.2.1"
